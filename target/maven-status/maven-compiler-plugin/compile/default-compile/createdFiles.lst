@@ -1,0 +1,7 @@
+com\nova\websocket\ChatApplication.class
+com\nova\websocket\chat\ChatController.class
+com\nova\websocket\chat\ChatMessage$ChatMessageBuilder.class
+com\nova\websocket\config\WebSocketEventListener.class
+com\nova\websocket\config\WebSocketConfig.class
+com\nova\websocket\chat\MessageType.class
+com\nova\websocket\chat\ChatMessage.class
